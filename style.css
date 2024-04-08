@@ -1,14 +1,27 @@
 body{background-color: #F5F5F5 ; 
-    color:#40407A ;}
+    color:#40407A ;
+    font-family: verdana, arial, sans-serif;
+}
 
 header{
 background-color: #80CBC4 ;
 color:#40407A ;
+background-color:url (lilyheader.jpg) ;
+background-repeat: no-repeat;
+background-position: right;
 }
 
 nav{
     background-color:#80CBC4 ;
+    font-weight: bold;
 }    
+
+nav a{text-decoration: none;}
+
+h1{
+    line-height: 400%;
+    text-indent: 1em;
+}
 
 h2{
     color: #80cbc4 ;
@@ -22,4 +35,11 @@ dt{
 
 footer{
     background-color: #80cbc4;
+    font-size: 90%;
+    font-style: italic;
+    text-align: center;
 }
+
+li{font-size: 90%;}
+
+dd{font-size: 90%;}
