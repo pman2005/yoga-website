@@ -6,13 +6,13 @@ body{background-color: #F5F5F5 ;
 header{
 background-color: #80CBC4 ;
 color:#40407A ;
-background-color:url (lilyheader.jpg) ;
+background-image:url(lilyheader.jpg) ;
 background-repeat: no-repeat;
 background-position: right;
 }
 
 nav{
-    background-color:#80CBC4 ;
+    text-align: center;
     font-weight: bold;
 }    
 
